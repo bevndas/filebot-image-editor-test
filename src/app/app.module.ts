@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ImageTransformTestComponent } from './image-transform-test/image-transform-test.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ImageTransformTestComponent
   ],
   imports: [
     BrowserModule,

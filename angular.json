@@ -30,7 +30,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": ["./src/assets/vendor/filerobot-image-editor/filerobot-image-editor.min.js"]
           },
           "configurations": {
             "production": {
